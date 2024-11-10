@@ -1,4 +1,4 @@
-# Wpp Chat Analyzer
+# WppChatAnalyzer
 
 A Python-based tool to analyze WhatsApp chat data with various visualization options. It allows you to analyze message statistics by day, week, or month, and generate a chart for better insights into chat activity.
 
@@ -11,7 +11,7 @@ A Python-based tool to analyze WhatsApp chat data with various visualization opt
 - [Download](#download)
 
 ## Description
-WhatsApp Chat Analyzer helps users analyze WhatsApp chat history from exported `.txt` or `.zip` files. It provides analysis of message counts by participant over time (daily, weekly, or monthly). Users can visualize this data in a table or a chart.
+WppChatAnalyzer helps users analyze WhatsApp chat history from exported `.txt` or `.zip` files. It provides analysis of message counts by participant over time (daily, weekly, or monthly). Users can visualize this data in a table or a chart.
 
 ## Dependencies
 
