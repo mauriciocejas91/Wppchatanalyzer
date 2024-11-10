@@ -9,7 +9,6 @@ A Python-based tool to analyze WhatsApp chat data with various visualization opt
 - [Usage](#usage)
 - [Features](#features)
 - [Download](#download)
-- [License](#license)
 
 ## Description
 WhatsApp Chat Analyzer helps users analyze WhatsApp chat history from exported `.txt` or `.zip` files. It provides analysis of message counts by participant over time (daily, weekly, or monthly). Users can visualize this data in a table or a chart.
@@ -69,8 +68,3 @@ To install all dependencies, you can use the following `pip` command:
 Alternatively you can download the executable file for Windows here:
 
 - [Download v1.0.0 executable](https://github.com/mauriciocejas91/Wppchatanalyzer/releases/download/v1.0.0/WAppChatAnalyzer.exe)
-
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
