@@ -8,7 +8,6 @@ A Python-based tool to analyze WhatsApp chat data with various visualization opt
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Description
