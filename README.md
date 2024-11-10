@@ -50,13 +50,11 @@ To install all dependencies, you can use the following `pip` command:
 
 `python freqan-gui6.py`
 
-2. Once the GUI window opens, click the "Select WhatsApp Chat File" button to load your `.txt` or `.zip` WhatsApp chat export.
+2. Once the GUI window opens, click the "Select WhatsApp Chat File" button to load your `.txt` or `.zip` WhatsApp chat export, or drag-and-drop your file
 
 3. Use the buttons at the top to choose the analysis type: **Daily**, **Weekly**, or **Monthly**. The data will be displayed in the table.
 
 4. You can also visualize the message statistics in a bar chart by clicking the "Visualize Chart" button.
-
-5. Drag and drop `.txt` or `.zip` files into the application window to load the chat data.
 
 ## Features
 
