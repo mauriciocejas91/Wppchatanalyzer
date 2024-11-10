@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+
+# PyInstaller build and dist folders
+build/
+dist/
+
+# PyInstaller temporary files
+*.spec
+
+# System files
+.DS_Store
+Thumbs.dbgit add .
