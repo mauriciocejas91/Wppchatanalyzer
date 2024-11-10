@@ -65,6 +65,13 @@ To install all dependencies, you can use the following `pip` command:
 - **Chart visualization**: Generate a stacked bar chart for a visual representation of message counts.
 - **WhatsApp-like theme**: The interface mimics WhatsApp's color scheme for a familiar experience.
 
+## Download Executable
+
+You can download the executable file for Windows here:
+
+- [Download v1.0.0 executable](https://github.com/mauriciocejas91/Wppchatanalyzer/releases/download/v1.0.0/WAppChatAnalyzer.exe)
+
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
